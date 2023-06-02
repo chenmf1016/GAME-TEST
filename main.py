@@ -1,0 +1,4 @@
+from probilitycalculate import probility_calculate
+
+# prob_calculate作为主函数，来对程序进行调用
+probility_calculate.prob_calculate()
